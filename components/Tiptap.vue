@@ -93,7 +93,6 @@ export default {
 </script>
 
 <style>
-
 .btn {
     @apply bg-zinc-950 hover:bg-zinc-800 text-white font-mono py-1 px-2 rounded-lg transition-colors duration-300;
 }
