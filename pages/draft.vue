@@ -2,9 +2,8 @@
     <div>
       <Tiptap />
     </div>
-  </template>
+</template>
   
-  <script setup>
-  import Tiptap from '~/components/Tiptap.vue'
-  </script>
-  
+<script setup>
+    import Tiptap from '~/components/Tiptap2.vue'
+</script>
